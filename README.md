@@ -7,7 +7,7 @@
 本项目采用**极简后端架构**，将 100% 精力投入 Agent 编排、硬边界校验与全链路可观测性。
 
 ## 技术栈
-- **极简后端**：Java 17, Spring Boot 3.x, MyBatis-Plus, MySQL
+- **极简后端**：Java 17, Spring Boot 4.x, MyBatis-Plus, MySQL
 - **实时交互**：WebSocket (STOMP)
 - **Agent 核心**：Spring AI Alibaba, 通义千问/DeepSeek API
 - **深度机制 (手写)**：自研状态机 (Orchestrator), Java AOP (全链路追踪), 策略模式 (硬边界拦截)
